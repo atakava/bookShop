@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="#fff" xmlns="http://www.w3.org/2000/svg"
+    class="header-bookmarks__icon header-bookmarks__icon--desktop">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M8 5a1 1 0 00-1 1v20.382l8.553-4.276a1 1 0 01.894 0L25 26.382V6a1 1 0 00-1-1H8zM5 6a3 3 0 013-3h16a3 3 0 013 3v22a1 1 0 01-1.447.894L16 24.118l-9.553 4.776A1 1 0 015 28V6z">
+    </path>
+</svg>
